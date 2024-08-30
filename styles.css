@@ -17,7 +17,8 @@ body {
 }
 
 h1 {
-  color: #e8d4b2;
+  /* merged from feat-color */
+  color: #e99d1b;
 }
 
 a {
