@@ -17,6 +17,7 @@ body {
 }
 
 h1 {
+  /* Comment on master */
   /* merged from feat-color */
   color: #e99d1b;
 }
